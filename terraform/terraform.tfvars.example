@@ -1,0 +1,7 @@
+project_id = "terraform-infra-qa"
+region     = "us-central1"
+
+# option_a            = "Cats"
+# option_b            = "Dogs"
+# allow_public_access = true
+# deletion_protection = false
